@@ -1,0 +1,5 @@
+{
+    "baseUrl": "https://katalon-demo-cura.herokuapp.com",
+    "viewportWidth": 1366,
+    "viewpoerHeight": 768
+}
